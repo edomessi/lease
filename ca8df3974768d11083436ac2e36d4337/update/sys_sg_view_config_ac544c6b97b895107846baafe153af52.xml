@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>My Vehicle Card</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-25 19:58:56</sys_created_on>
+        <sys_id>ac544c6b97b895107846baafe153af52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Vehicle Card</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_view_config_ac544c6b97b895107846baafe153af52</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-25 19:58:56</sys_updated_on>
+        <table>cmdb_ci_vehicle</table>
+        <template display_value="Applet 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=ac544c6b97b895107846baafe153af52"/>
+</record_update>

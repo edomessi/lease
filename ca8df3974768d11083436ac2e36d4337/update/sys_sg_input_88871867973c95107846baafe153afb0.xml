@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input">
+    <sys_sg_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <autofill_variable/>
+        <category/>
+        <description/>
+        <label>Please upload pictures of the event</label>
+        <mandatory>false</mandatory>
+        <name>attach</name>
+        <order>500</order>
+        <page display_value="Page 1">87b6d067973c95107846baafe153af78</page>
+        <parameter_screen display_value="Report Accident">bbe19c6f97f895107846baafe153af38</parameter_screen>
+        <parameter_section/>
+        <placeholder/>
+        <readonly>false</readonly>
+        <sys_class_name>sys_sg_input</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-25 21:25:25</sys_created_on>
+        <sys_id>88871867973c95107846baafe153afb0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Please upload pictures of the event</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_input_88871867973c95107846baafe153afb0</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-25 21:35:53</sys_updated_on>
+        <type display_value="Attachment">ce1c605517021010f2b43b9fadb9597d</type>
+    </sys_sg_input>
+</record_update>

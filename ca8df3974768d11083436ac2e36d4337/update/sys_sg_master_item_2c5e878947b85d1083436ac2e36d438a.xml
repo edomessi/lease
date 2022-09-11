@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>sysapproval_approver</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="My Approval Form Screen">ac5e878947b85d1083436ac2e36d4378</embedded_screen>
+        <item_view/>
+        <name>My Approval Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-18 16:16:39</sys_created_on>
+        <sys_id>2c5e878947b85d1083436ac2e36d438a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Approval Form Screen Master Item</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_master_item_2c5e878947b85d1083436ac2e36d438a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-18 16:16:39</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My Approval List Screen View Config">185e878947b85d1083436ac2e36d431e</view_config>
+    </sys_sg_master_item>
+</record_update>

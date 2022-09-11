@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="vehicle">b362a0a7977c95107846baafe153af5d</item_parameter>
+        <screen display_value="Accidents">28c2a8a7977c95107846baafe153afbb</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-25 22:12:22</sys_created_on>
+        <sys_id>c7d22ca7977c95107846baafe153afeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b362a0a7977c95107846baafe153af5d</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_c7d22ca7977c95107846baafe153afeb</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-25 22:12:22</sys_updated_on>
+        <ui_parameter display_value="Vehicle">a4d2e867977c95107846baafe153af4c</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

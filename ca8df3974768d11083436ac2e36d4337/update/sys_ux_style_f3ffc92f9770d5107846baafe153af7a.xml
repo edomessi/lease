@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="INSERT_OR_UPDATE">
+        <name>Lease Fonts</name>
+        <style>{&#13;
+    "properties": {&#13;
+        "--now-font-family": "Montserrat, Arial, sans-serif"&#13;
+    }&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-26 01:31:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3ffc92f9770d5107846baafe153af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lease Fonts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_ux_style_f3ffc92f9770d5107846baafe153af7a</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-26 01:31:48</sys_updated_on>
+        <type>core</type>
+    </sys_ux_style>
+</record_update>

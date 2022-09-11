@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="INSERT_OR_UPDATE">
+        <name>Lease Colors</name>
+        <style>{&#13;
+    "base": {&#13;
+        "--now-color--primary-0": "254,210,193",&#13;
+        "--now-color--primary-1": "252,80,15",&#13;
+        "--now-color--primary-2": "235,91,29",&#13;
+        "--now-color--primary-3": "235,91,29",&#13;
+        "--now-color--secondary-0": "214,191,233",&#13;
+        "--now-color--secondary-1": "98,7,171",&#13;
+        "--now-color--secondary-2": "98,7,171",&#13;
+        "--now-color--secondary-3": "98,7,171",&#13;
+        "--now-color_selection--primary-0": "254,210,193",&#13;
+        "--now-color_selection--primary-1": "252,80,15",&#13;
+        "--now-color_selection--primary-2": "252,80,15",&#13;
+        "--now-color_selection--primary-3": "252,80,15",&#13;
+        "--now-color_selection--primary-4": "252,80,15",&#13;
+        "--now-color_selection--secondary-0": "214,191,233",&#13;
+        "--now-color_selection--secondary-1": "98,7,171",&#13;
+        "--now-color_selection--secondary-2": "98,7,171",&#13;
+        "--now-color_selection--secondary-3": "98,7,171",&#13;
+        "--now-color_selection--secondary-4": "98,7,171",&#13;
+        "--now-color--link-1": "98,7,171",&#13;
+        "--now-color--link-2": "252,80,15",&#13;
+        "--now-color--link-3": "98,7,171",&#13;
+        "--now-color--link-4": "98,7,171",&#13;
+        "--now-color_surface--brand-1": "254,210,193",&#13;
+        "--now-color_surface--brand-2": "214,191,233",&#13;
+        "--now-color_chrome--brand-10": "252,80,15",&#13;
+        "--now-color_chrome--brand-5": "98,7,171",&#13;
+        "--now-color_chrome--brand-4": "252,80,15",&#13;
+        "--now-color_text--primary": "43,51,70",&#13;
+        "--now-color_text--secondary": "43,51,70"&#13;
+    },&#13;
+    "properties": {&#13;
+        "--now-color_brand--primary": "98,7,171",&#13;
+        "--now-color_brand--secondary": "98,7,171"&#13;
+    }&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-26 01:29:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15cfc1eb9770d5107846baafe153af6f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Lease Colors</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_ux_style_15cfc1eb9770d5107846baafe153af6f</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-26 01:55:44</sys_updated_on>
+        <type>core</type>
+    </sys_ux_style>
+</record_update>

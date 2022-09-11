@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Report Accident Icon">1e8ccc6797f895107846baafe153af43</icon>
+        <name>Report Accident - Record Producer</name>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-25 20:35:44</sys_created_on>
+        <sys_id>ea8ccc6797f895107846baafe153af84</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Report Accident - Record Producer</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_ea8ccc6797f895107846baafe153af84</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-25 21:14:14</sys_updated_on>
+        <url>/mesp?id=sc_cat_item&amp;table=sc_cat_item&amp;sys_id=8d60650a47fc915083436ac2e36d4332</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ea8ccc6797f895107846baafe153af84"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_03_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-21 09:04:09</sys_created_on>
+        <sys_id>4e188d86473c915083436ac2e36d436c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_03_element</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_4e188d86473c915083436ac2e36d436c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-21 09:04:09</sys_updated_on>
+        <view_config display_value="My Approval List Screen View Config">185e878947b85d1083436ac2e36d431e</view_config>
+        <view_template_slot display_value="text_03">36554d82473c915083436ac2e36d43c8</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

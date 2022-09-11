@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>my-vehicle-records</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="cmdb_ci_vehicle">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^model_id.acquisition_method=Lease^install_statusIN1,3^ORinstall_status=8^ORDERBYDESCsys_updated_on<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item display_value="Lease" endquery="false" field="model_id.acquisition_method" goto="false" newquery="false" operator="=" or="false" value="Lease"/>
+            <item display_value="1,3" endquery="false" field="install_status" goto="false" newquery="false" operator="IN" or="false" value="1,3"/>
+            <item display_value="Stolen" endquery="false" field="install_status" goto="false" newquery="false" operator="=" or="true" value="8"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_updated_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-25 19:58:36</sys_created_on>
+        <sys_id>eb34486b97b895107846baafe153af42</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>my-vehicle-records</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_data_item_eb34486b97b895107846baafe153af42</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-25 20:32:31</sys_updated_on>
+        <table>cmdb_ci_vehicle</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=eb34486b97b895107846baafe153af42"/>
+</record_update>

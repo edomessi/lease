@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="description" label="Short Description" language="en" table="x_snc_lease_mana_0_accident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <help/>
+            <hint/>
+            <label>Short Description</label>
+            <language>en</language>
+            <name>x_snc_lease_mana_0_accident</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 10:53:48</sys_created_on>
+            <sys_id>9c312d4a47fc915083436ac2e36d43c8</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>Short Description</sys_name>
+            <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_lease_mana_0_accident_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 12:29:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

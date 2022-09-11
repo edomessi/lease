@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script><![CDATA[(function WriteBackAction(parm_input, parm_variable, actionResult) {
+	
+	var accident = new GlideRecord('x_snc_lease_mana_0_accident');
+	
+	accident.initialize();
+	accident.setValue('description', parm_input.description);
+	accident.setValue('location', parm_input.location);
+	accident.setValue('date', parm_input.date);
+	accident.setValue('driver', parm_input.driver);
+	accident.setValue('vehicle', parm_input.vehicle);
+	accident.setValue('reported_from_mobile', true);
+	
+	var accidentID = accident.insert();
+	
+	//gs.info('MS Mobile - Description: ' + parm_input.description);
+	//gs.info('MS Mobile - Location: ' + parm_input.location);
+	//gs.info('MS Mobile - Date: ' + parm_input.date);
+	//gs.info('MS Mobile - Driver: ' + parm_input.driver);
+	//gs.info('MS Mobile - Accident ID: ' + accidentID);
+	gs.info('ms test: ' + parm_input.vehicle);
+
+	actionResult.addAttachment("attach", "x_snc_lease_mana_0_accident", accident.getUniqueValue());  
+
+})(parm_input, parm_variable, actionResult);]]></execution_script>
+        <name>report-accident</name>
+        <parameter_screen display_value="Report Accident">bbe19c6f97f895107846baafe153af38</parameter_screen>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-25 20:45:37</sys_created_on>
+        <sys_id>3aee886b97f895107846baafe153af37</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>report-accident</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_3aee886b97f895107846baafe153af37</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-25 23:57:01</sys_updated_on>
+        <table>cmdb_ci_vehicle</table>
+        <template/>
+        <type>script</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=3aee886b97f895107846baafe153af37"/>
+</record_update>

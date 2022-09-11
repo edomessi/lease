@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>My Approval List Screen View Config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-18 16:16:39</sys_created_on>
+        <sys_id>185e878947b85d1083436ac2e36d431e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>My Approval List Screen View Config</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_view_config_185e878947b85d1083436ac2e36d431e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-21 09:04:08</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <template display_value="Vehicle - Approval">32550142473c915083436ac2e36d438b</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=185e878947b85d1083436ac2e36d431e"/>
+</record_update>

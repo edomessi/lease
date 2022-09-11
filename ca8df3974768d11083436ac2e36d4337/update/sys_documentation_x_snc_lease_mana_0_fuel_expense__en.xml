@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Fuel expense" language="en" table="x_snc_lease_mana_0_fuel_expense">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Fuel expense</label>
+            <language>en</language>
+            <name>x_snc_lease_mana_0_fuel_expense</name>
+            <plural>Fuel expenses</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-13 15:41:03</sys_created_on>
+            <sys_id>4e3651a747a0151083436ac2e36d4326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Fuel expense</sys_name>
+            <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_lease_mana_0_fuel_expense__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-13 15:41:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

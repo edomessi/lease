@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>500</order>
+        <search_context_config display_value="Lease Management - Workspace Search">134059067b7c9150b1034f3428f2270c</search_context_config>
+        <source display_value="Lease Management - x_snc_lease_mana_0_penalty">f1505d06477c915083436ac2e36d4370</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-21 09:40:10</sys_created_on>
+        <sys_id>7d505d06477c915083436ac2e36d43fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_7d505d06477c915083436ac2e36d43fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-21 09:40:10</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_lease_mana_0_accident</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Accident Details">ecc22ca7977c95107846baafe153af31</embedded_screen>
+        <item_view/>
+        <name>Vehicle Accidents List Item Config</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-25 22:11:55</sys_created_on>
+        <sys_id>28c22ca7977c95107846baafe153af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Accidents List Item Config</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_master_item_28c22ca7977c95107846baafe153af3d</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-25 22:11:55</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Vehicle Accidents Card">28c2a8a7977c95107846baafe153afc1</view_config>
+    </sys_sg_master_item>
+</record_update>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7ff5856f9730d5107846baafe153af39" sys_domain="global" table="ast_contract" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract_model</element>
+            <position>0</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b7f5856f9730d5107846baafe153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor</element>
+            <position>1</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bff5856f9730d5107846baafe153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_lease_mana_0_u_vehicle_request</element>
+            <position>2</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b3f5856f9730d5107846baafe153af8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_contract</element>
+            <position>3</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b7f5856f9730d5107846baafe153af8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>4</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bbf5856f9730d5107846baafe153af8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_contract</element>
+            <position>5</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bff5856f9730d5107846baafe153af8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starts</element>
+            <position>6</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b3f5856f9730d5107846baafe153af8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ends</element>
+            <position>7</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b7f5856f9730d5107846baafe153af8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bbf5856f9730d5107846baafe153af8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>9</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bff5856f9730d5107846baafe153af8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>10</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b3f5856f9730d5107846baafe153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>substate</element>
+            <position>11</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b7f5856f9730d5107846baafe153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract_administrator</element>
+            <position>12</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bbf5856f9730d5107846baafe153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver</element>
+            <position>13</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bff5856f9730d5107846baafe153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_owner</element>
+            <position>14</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b3f5856f9730d5107846baafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>commitment</element>
+            <position>15</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b7f5856f9730d5107846baafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>discount</element>
+            <position>16</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bbf5856f9730d5107846baafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_type</element>
+            <position>17</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bff5856f9730d5107846baafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_non_contractual_slas</element>
+            <position>18</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b3f5856f9730d5107846baafe153af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>19</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>b7f5856f9730d5107846baafe153af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>20</position>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_id>bbf5856f9730d5107846baafe153af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="3cc05b3297a011107846baafe153af34">7ff5856f9730d5107846baafe153af39</sys_ui_section>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>ast_contract</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>workflow.factory</sys_created_by>
+            <sys_created_on>2022-07-26 00:45:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ff5856f9730d5107846baafe153af39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ast_contract</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+            <sys_update_name>sys_ui_section_7ff5856f9730d5107846baafe153af39</sys_update_name>
+            <sys_updated_by>workflow.factory</sys_updated_by>
+            <sys_updated_on>2022-07-26 00:45:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">3cc05b3297a011107846baafe153af34</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

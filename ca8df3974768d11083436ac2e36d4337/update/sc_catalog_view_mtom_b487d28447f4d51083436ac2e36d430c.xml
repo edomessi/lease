@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Benefits">e277d28447f4d51083436ac2e36d4300</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 09:43:17</sys_created_on>
+        <sys_id>b487d28447f4d51083436ac2e36d430c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Benefits.catalog_benefits</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_benefits">bc87d28447f4d51083436ac2e36d430a</sys_portal_page>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_b487d28447f4d51083436ac2e36d430c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 09:43:17</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

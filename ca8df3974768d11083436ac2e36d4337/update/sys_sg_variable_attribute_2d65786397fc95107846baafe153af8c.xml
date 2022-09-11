@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_variable_attribute">
+    <sys_sg_variable_attribute action="INSERT_OR_UPDATE">
+        <name>FieldName</name>
+        <sys_class_name>sys_sg_variable_attribute</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-25 23:33:49</sys_created_on>
+        <sys_id>2d65786397fc95107846baafe153af8c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FieldName</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_variable_attribute_2d65786397fc95107846baafe153af8c</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-25 23:37:42</sys_updated_on>
+        <value>sys_id</value>
+        <variable display_value="autofill_var_vehicle">c4257c6397fc95107846baafe153afc3</variable>
+    </sys_sg_variable_attribute>
+</record_update>

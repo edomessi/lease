@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Vehicle card approval for VRQ</description>
+        <name>Vehicle - Approval</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-21 08:52:11</sys_created_on>
+        <sys_id>32550142473c915083436ac2e36d438b</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>Vehicle - Approval</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_sg_view_template_32550142473c915083436ac2e36d438b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-21 09:27:37</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Id":"view_group_01","Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":16,"Bottom":16},"Children":[{"Type":"ViewGroup","Id":"view_group_02","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Margin":{"Bottom":8},"Children":[{"Type":"ViewGroup","Id":"view_group_03","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Id":"view_group_04","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","BackgroundColor":"#f1f1f1","CornerRadius":2,"Height":20,"Children":[{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":10},"Margin":{"Top":3,"Bottom":3,"Left":8},"TextAlignment":"Left","CellId":"text_icon_01","Id":"text_icon_01"}]}]},{"Type":"ViewGroup","Id":"view_group_05","Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Children":[{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","TextAlignment":"Right","CellId":"text_02","Id":"text_02"}]}]},{"Type":"Text","Id":"text_03","Margin":{"Top":8,"Bottom":8},"TextColor":"#333e3f","Font":{"Weight":"semibold","Size":16},"MaxLines":1,"textStyle":"custom","TextAlignment":"Left","CellId":"text_03"},{"Type":"ViewGroup","Id":"view_group_06","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{},"Children":[{"Type":"ViewGroup","Id":"view_group_07","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"Children":[{"Type":"Text","CellId":"text_04","Id":"text_04","TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","TextAlignment":"Left"},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Left":4},"CellId":"text_05","Id":"text_05","TextAlignment":"Left"}]}]},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Id":"viewgroup_08","BackgroundColor":"#F6F7F7","Children":[{"Type":"Image","Scaling":"fit","CellId":"image_02","Id":"image_02","Height":70,"Margin":{}}]}]}</template_json>
+    </sys_sg_view_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=32550142473c915083436ac2e36d438b"/>
+</record_update>

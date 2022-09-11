@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_ribbon_setting">
+    <sys_aw_ribbon_setting action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <attrs/>
+        <component display_value="Ribbon Process Flow">b754ce611b12bc908303a603b24bcb14</component>
+        <is_inheritable>false</is_inheritable>
+        <name>Vehicle - Ribbon Process Flow</name>
+        <order>100</order>
+        <sys_class_name>sys_aw_ribbon_setting</sys_class_name>
+        <sys_created_by>workflow.factory</sys_created_by>
+        <sys_created_on>2022-07-26 01:13:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a13c0de79770d5107846baafe153af28</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Vehicle - Ribbon Process Flow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_aw_ribbon_setting_a13c0de79770d5107846baafe153af28</sys_update_name>
+        <sys_updated_by>workflow.factory</sys_updated_by>
+        <sys_updated_on>2022-07-26 02:06:19</sys_updated_on>
+        <table>cmdb_ci_vehicle</table>
+        <tag>snc-ribbon-process-flow-v2</tag>
+        <width>12</width>
+        <workspace/>
+    </sys_aw_ribbon_setting>
+    <sys_variable_value action="delete_multiple" query="document_key=a13c0de79770d5107846baafe153af28"/>
+</record_update>
