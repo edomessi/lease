@@ -14,6 +14,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-07-21 09:40:03</sys_updated_on>
         <sys_user_role display_value="x_snc_lease_mana_0.fleet operator" name="x_snc_lease_mana_0.fleet operator">8e8df3974768d11083436ac2e36d4340</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

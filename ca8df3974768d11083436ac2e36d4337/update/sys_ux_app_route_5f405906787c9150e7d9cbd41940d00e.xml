@@ -2,6 +2,7 @@
     <sys_ux_app_route action="INSERT_OR_UPDATE">
         <app_config display_value="Lease Management Config">db405906bb7c9150676964e90d40a10f</app_config>
         <description/>
+        <extension_point/>
         <fields/>
         <icon>graduation-cap-outline</icon>
         <name>Agent assist</name>

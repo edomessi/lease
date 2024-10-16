@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-07-21 12:29:03</sys_created_on>
-            <sys_id>67f6fd4a4770d15083436ac2e36d43ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2022-07-21 12:29:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>eff6fd4a4770d15083436ac2e36d43e9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-21 12:29:03</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2022-07-21 12:29:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2bf6fd4a4770d15083436ac2e36d43eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-21 12:29:03</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2022-07-21 12:29:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a7f6fd4a4770d15083436ac2e36d43ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-21 12:29:03</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2022-07-21 12:29:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>27f6fd4a4770d15083436ac2e36d43ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-21 12:29:03</sys_updated_on>

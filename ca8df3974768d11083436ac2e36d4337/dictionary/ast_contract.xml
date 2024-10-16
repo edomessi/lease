@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="21325f7e97a011107846baafe153af26" label="Contract" max_length="40" name="ast_contract" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="New Reference" max_length="32" name="x_snc_lease_mana_0_u_reference_1" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="encode_utf8=false" label="Vehicle Request" max_length="32" name="x_snc_lease_mana_0_u_vehicle_request" read_only="true" reference="x_snc_lease_mana_0_vehicle_request" type="reference"/>
+    </element>
+</database>

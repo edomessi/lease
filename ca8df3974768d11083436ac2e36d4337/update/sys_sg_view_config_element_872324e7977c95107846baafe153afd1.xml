@@ -14,6 +14,6 @@
         <sys_updated_by>workflow.factory</sys_updated_by>
         <sys_updated_on>2022-07-25 22:13:43</sys_updated_on>
         <view_config display_value="Vehicle Accidents Card">28c2a8a7977c95107846baafe153afc1</view_config>
-        <view_template_slot display_value="text_icon_01">94e07bd30f202010e70a4abec4767e10</view_template_slot>
+        <view_template_slot display_value="text_decorator_01">94e07bd30f202010e70a4abec4767e10</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

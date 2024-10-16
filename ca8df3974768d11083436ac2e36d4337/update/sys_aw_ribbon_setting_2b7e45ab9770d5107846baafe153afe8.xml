@@ -3,6 +3,7 @@
         <active>false</active>
         <attrs/>
         <component display_value="CMDB Timeline">77a23c29539441105016ddeeff7b12d3</component>
+        <experience_restricted>false</experience_restricted>
         <is_inheritable>false</is_inheritable>
         <name>Vehicle - CMDB Timeline</name>
         <order>200</order>

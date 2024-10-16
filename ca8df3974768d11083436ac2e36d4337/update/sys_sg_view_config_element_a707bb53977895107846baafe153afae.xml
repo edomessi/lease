@@ -14,6 +14,6 @@
         <sys_updated_by>workflow.factory</sys_updated_by>
         <sys_updated_on>2022-07-25 19:00:58</sys_updated_on>
         <view_config display_value="Vehicle Record Card">2966bf93977895107846baafe153af0a</view_config>
-        <view_template_slot display_value="text_icon_01">94e07bd30f202010e70a4abec4767e10</view_template_slot>
+        <view_template_slot display_value="text_decorator_01">94e07bd30f202010e70a4abec4767e10</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

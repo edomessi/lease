@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="4bfebf1b4768d11083436ac2e36d4357" label="Accident" max_length="40" name="x_snc_lease_mana_0_accident" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="description" type="string"/>
+        <element label="Driver" max_length="32" name="driver" reference="x_snc_lease_mana_0_driver" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Reported from mobile" max_length="40" name="reported_from_mobile" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="new" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="In progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Closed" sequence="2" value="closed"/>
+                <element inactive_on_update="false" label="Canceled" sequence="3" value="canceled"/>
+            </choice>
+        </element>
+        <element label="Vehicle" max_length="32" name="vehicle" reference="cmdb_ci_vehicle" type="reference"/>
+        <index name="index">
+            <element name="driver"/>
+        </index>
+        <index name="index2">
+            <element name="vehicle"/>
+        </index>
+    </element>
+</database>

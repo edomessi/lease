@@ -2,7 +2,9 @@
     <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
         <applet display_value="My Vehicle">a054486b97b895107846baafe153af8f</applet>
         <background_color/>
+        <background_color_variable/>
         <foreground_color/>
+        <foreground_color_variable/>
         <icon display_value="Wrench">6454486b97b895107846baafe153af8c</icon>
         <image/>
         <name>Vehicle</name>

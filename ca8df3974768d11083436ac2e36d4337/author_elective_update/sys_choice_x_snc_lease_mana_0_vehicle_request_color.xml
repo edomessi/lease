@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-07-15 10:33:58</sys_created_on>
-            <sys_id>db136e484738d51083436ac2e36d4387</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>color</sys_name>
             <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2022-07-15 10:33:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>97136e484738d51083436ac2e36d4387</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-15 10:33:58</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2022-07-15 10:33:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>13136e484738d51083436ac2e36d438c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-15 10:33:58</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2022-07-15 10:33:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>db136e484738d51083436ac2e36d438f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-15 10:33:58</sys_updated_on>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8a3611a747a0151083436ac2e36d43ec" extends="task" label="Fuel expense" max_length="40" name="x_snc_lease_mana_0_fuel_expense" text_index="true" type="collection">
+        <element label="Amount" mandatory="true" max_length="40" name="amount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
+                <element inactive_on_update="false" label="Submitted" sequence="1" value="submitted"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+                <element inactive_on_update="false" label="Matched" sequence="3" value="matched"/>
+                <element inactive_on_update="false" label="Unmatched" sequence="4" value="unmatched"/>
+            </choice>
+        </element>
+    </element>
+</database>

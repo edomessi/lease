@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="99bcd68c47f4d51083436ac2e36d437c" label="Optional" max_length="40" name="x_snc_lease_mana_0_optional" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Price" max_length="40" name="price" type="currency"/>
+    </element>
+</database>

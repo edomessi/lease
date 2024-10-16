@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="6342a2084738d51083436ac2e36d4325" extends="task" label="Vehicle request" max_length="40" name="x_snc_lease_mana_0_vehicle_request" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Color" max_length="40" name="color" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Black" sequence="0" value="black"/>
+                <element inactive_on_update="false" label="Blue" sequence="1" value="blue"/>
+                <element inactive_on_update="false" label="White" sequence="2" value="white"/>
+            </choice>
+        </element>
+        <element default="3c967c55dfa1010068c37a0d3df26350" label="Contract model" max_length="32" name="contract_model" reference="cmdb_contract_product_model" type="reference"/>
+        <element label="Model" max_length="32" name="model" reference="cmdb_model" type="reference"/>
+        <element label="Optionals" max_length="40" name="optionals" reference="x_snc_lease_mana_0_optional" type="glide_list"/>
+    </element>
+</database>

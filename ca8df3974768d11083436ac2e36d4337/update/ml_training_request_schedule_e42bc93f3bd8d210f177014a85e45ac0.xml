@@ -6,9 +6,10 @@
         <condition/>
         <conditional>false</conditional>
         <entered_time/>
-        <ml_capability_definition display_value="Content Gap: Cluster failed searches">f544e59b7376001036fe41244ef6a7f6</ml_capability_definition>
+        <max_drift/>
+        <ml_capability_definition display_value="Demand Insights: Incident Clusters Need Knowledge">e85b83b673d40010f84de1d28bf6a77d</ml_capability_definition>
         <ml_solution/>
-        <name>Content Gap: Cluster failed searches</name>
+        <name>Demand Insights: Incident Clusters Need Knowledge</name>
         <offset/>
         <offset_type>0</offset_type>
         <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
@@ -16,22 +17,22 @@
         <run_dayofmonth>1</run_dayofmonth>
         <run_dayofweek/>
         <run_period/>
-        <run_start>2022-08-17 17:30:01</run_start>
+        <run_start>2024-09-04 08:00:01</run_start>
         <run_time/>
         <run_type>once</run_type>
         <solution_definition/>
         <sys_class_name>ml_training_request_schedule</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-17 17:30:01</sys_created_on>
-        <sys_id>63cebd36971519107846baafe153af0e</sys_id>
+        <sys_created_on>2024-09-04 08:00:01</sys_created_on>
+        <sys_id>e42bc93f3bd8d210f177014a85e45ac0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Content Gap: Cluster failed searches</sys_name>
+        <sys_name>Demand Insights: Incident Clusters Need Knowledge</sys_name>
         <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
         <sys_policy/>
         <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
-        <sys_update_name>ml_training_request_schedule_63cebd36971519107846baafe153af0e</sys_update_name>
+        <sys_update_name>ml_training_request_schedule_e42bc93f3bd8d210f177014a85e45ac0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-17 17:30:01</sys_updated_on>
+        <sys_updated_on>2024-09-04 08:00:01</sys_updated_on>
         <time_zone/>
         <upgrade_safe>false</upgrade_safe>
     </ml_training_request_schedule>

@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Lease Management Config">db405906bb7c9150676964e90d40a10f</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ {&#13;
   "eventMappingId" : "ckgaadhhiggjaaaaaazddhhhctjjvffyafe",&#13;
   "isConfiguration" : false,&#13;

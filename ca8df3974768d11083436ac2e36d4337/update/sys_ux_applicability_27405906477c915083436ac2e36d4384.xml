@@ -4,6 +4,7 @@
         <api_name>x_snc_lease_mana_0.Audience for appLease Management</api_name>
         <description/>
         <name>Audience for appLease Management</name>
+        <role_names/>
         <roles>0a8df3974768d11083436ac2e36d4368,8e8df3974768d11083436ac2e36d436a,4a8df3974768d11083436ac2e36d433c,8e8df3974768d11083436ac2e36d4340,90389d6b47a0151083436ac2e36d4395</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>admin</sys_created_by>

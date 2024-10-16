@@ -17,6 +17,7 @@
         <next_label>Next</next_label>
         <pagination_type>off</pagination_type>
         <prev_label>Previous</prev_label>
+        <reset_after_submit>false</reset_after_submit>
         <resume>false</resume>
         <roles_override/>
         <submit_label>Report</submit_label>

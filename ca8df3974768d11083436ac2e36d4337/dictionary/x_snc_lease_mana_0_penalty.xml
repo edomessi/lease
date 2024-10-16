@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="20b4cce347a8d11083436ac2e36d4313" extends="task" label="Penalty" max_length="40" name="x_snc_lease_mana_0_penalty" text_index="true" type="collection"/>
+</database>

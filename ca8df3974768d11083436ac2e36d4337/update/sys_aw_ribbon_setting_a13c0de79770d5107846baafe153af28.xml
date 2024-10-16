@@ -3,6 +3,7 @@
         <active>true</active>
         <attrs/>
         <component display_value="Ribbon Process Flow">b754ce611b12bc908303a603b24bcb14</component>
+        <experience_restricted>false</experience_restricted>
         <is_inheritable>false</is_inheritable>
         <name>Vehicle - Ribbon Process Flow</name>
         <order>100</order>
