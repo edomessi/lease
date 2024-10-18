@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Lease Management">79126ad1b8995e10afc1a61f6e44f0f9</page>
+        <required_translations>[ {
+  "message" : "New Accident",
+  "comment" : ""
+}, {
+  "message" : "New Driver",
+  "comment" : ""
+}, {
+  "message" : "New Fuel expense",
+  "comment" : ""
+}, {
+  "message" : "New Optional",
+  "comment" : ""
+}, {
+  "message" : "New Penalty",
+  "comment" : ""
+}, {
+  "message" : "New Vehicle request",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 12:57:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ed126ad1b7995e101dc7a5541cd7d4e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_ux_page_property_ed126ad1b7995e101dc7a5541cd7d4e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 12:58:02</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_lease_mana_0.79126ad1b8995e10afc1a61f6e44f0f9.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Vehicle request"},"routeInfo":{"route":"record","fields":{"table":"x_snc_lease_mana_0_vehicle_request","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_lease_mana_0_vehicle_request","canCreate":true}}},{"label":{"translatable":true,"message":"New Driver"},"routeInfo":{"route":"record","fields":{"table":"x_snc_lease_mana_0_driver","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_lease_mana_0_driver","canCreate":true}}},{"label":{"translatable":true,"message":"New Fuel expense"},"routeInfo":{"route":"record","fields":{"table":"x_snc_lease_mana_0_fuel_expense","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_lease_mana_0_fuel_expense","canCreate":true}}},{"label":{"translatable":true,"message":"New Optional"},"routeInfo":{"route":"record","fields":{"table":"x_snc_lease_mana_0_optional","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_lease_mana_0_optional","canCreate":true}}},{"label":{"translatable":true,"message":"New Penalty"},"routeInfo":{"route":"record","fields":{"table":"x_snc_lease_mana_0_penalty","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_lease_mana_0_penalty","canCreate":true}}},{"label":{"translatable":true,"message":"New Accident"},"routeInfo":{"route":"record","fields":{"table":"x_snc_lease_mana_0_accident","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_lease_mana_0_accident","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed126ad1b7995e101dc7a5541cd7d4e9"/>
+</record_update>

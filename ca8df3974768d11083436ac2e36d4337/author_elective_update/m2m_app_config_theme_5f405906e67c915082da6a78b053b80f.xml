@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-21 09:40:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f405906e67c915082da6a78b053b80f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>m2m_app_config_theme_5f405906e67c915082da6a78b053b80f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-21 09:40:00</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">1f405906ae7c9150c535fe7b65ab330f</theme>
+        <ux_app_configuration display_value="Lease Management Config">db405906bb7c9150676964e90d40a10f</ux_app_configuration>
+    </m2m_app_config_theme>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</application>
+        <file_path/>
+        <instance_id>28625b313b6cd6d4677f04e0b5e45ab7</instance_id>
+        <instance_name>demoallwfxea83838</instance_name>
+        <name>m2m_app_config_theme_5f405906e67c915082da6a78b053b80f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-21 09:40:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f405906e67c915082da6a78b053b80f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>m2m_app_config_theme_5f405906e67c915082da6a78b053b80f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-21 09:40:00</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">1f405906ae7c9150c535fe7b65ab330f</theme>
+        <ux_app_configuration display_value="Lease Management Config">db405906bb7c9150676964e90d40a10f</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>]]></payload>
+        <payload_hash>31293878</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>ecc02a9d2b595e10f329f9a0de91bf5b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 12:52:36</sys_created_on>
+        <sys_id>00e0aadd2b595e10f329f9a0de91bfcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192956329b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 12:52:36</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>cce0aadd5f595e103256538cc2413dcc</update_guid>
+        <update_guid_history>cce0aadd5f595e103256538cc2413dcc:31293878</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">95816e912b995e10f329f9a0de91bfec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 12:55:25</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>26de27e8aa634f4a9018ca3989a046d9</sys_id>
+        <sys_metadata>5f405906e67c915082da6a78b053b80f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_scope_delete display_value="">3f06d45df3a24e5c99f9fa47dbb21e11</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_5f405906e67c915082da6a78b053b80f</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_5f405906e67c915082da6a78b053b80f">00e0aadd2b595e10f329f9a0de91bfcd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 12:55:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

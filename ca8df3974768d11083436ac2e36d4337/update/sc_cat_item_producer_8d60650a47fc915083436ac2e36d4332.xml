@@ -2,6 +2,7 @@
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <access_type>restricted</access_type>
         <active>true</active>
+        <additional_review>false</additional_review>
         <allow_edit>false</allow_edit>
         <availability>on_both</availability>
         <billable>false</billable>
@@ -9,6 +10,7 @@
         <category display_value="Vehicles">5687568447f4d51083436ac2e36d4397</category>
         <checked_out>false</checked_out>
         <cost>0</cost>
+        <create_universal_request>false</create_universal_request>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
@@ -24,6 +26,7 @@
         <ignore_price>true</ignore_price>
         <image/>
         <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
         <mandatory_attachment>false</mandatory_attachment>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -40,13 +43,14 @@
         <no_proceed_checkout>false</no_proceed_checkout>
         <no_quantity>false</no_quantity>
         <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
         <no_search>false</no_search>
         <no_wishlist_v2>false</no_wishlist_v2>
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
-        <picture>f286ae2947a5d51083436ac2e36d4318</picture>
+        <owner display_value="Thibaut Deflandre">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>0c60b6592bd95e10f329f9a0de91bf61</picture>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
 * `current` Is the GlideRecord produced by Record Producer. Use `current.update()` to update the record
@@ -87,22 +91,23 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-21 10:50:18</sys_created_on>
         <sys_id>8d60650a47fc915083436ac2e36d4332</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name>Report a car accident</sys_name>
         <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
         <sys_policy/>
         <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
         <sys_update_name>sc_cat_item_producer_8d60650a47fc915083436ac2e36d4332</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-08-26 09:27:22</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 14:00:23</sys_updated_on>
         <table_name>x_snc_lease_mana_0_accident</table_name>
-        <taxonomy_topic display_value="Lease">d4d22f9797f495107846baafe153aff6</taxonomy_topic>
+        <taxonomy_topic display_value="">d4d22f9797f495107846baafe153aff6</taxonomy_topic>
         <template/>
         <template_manager_roles/>
+        <turn_off_nowassist_conversation>false</turn_off_nowassist_conversation>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version/>
+        <version>1</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
@@ -128,4 +133,43 @@
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>crashed-car-100.png</file_name>
+        <hash>cca2fa615b18feb65a42af0cebaa984bda8c544a7645c34609b0b2c21cf99756</hash>
+        <image_height>100</image_height>
+        <image_width>100</image_width>
+        <size_bytes>2202</size_bytes>
+        <size_compressed>2225</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 14:00:19</sys_created_on>
+        <sys_id>0c60b6592bd95e10f329f9a0de91bf61</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 14:00:19</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>8d60650a47fc915083436ac2e36d4332</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="crashed-car-100.png" sys_id="0c60b6592bd95e10f329f9a0de91bf61">0c60b6592bd95e10f329f9a0de91bf61</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 14:00:19</sys_created_on>
+        <sys_id>4c60b6592bd95e10f329f9a0de91bf61</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2956</length>
+        <position>1</position>
+        <sys_attachment display_value="crashed-car-100.png" sys_id="0c60b6592bd95e10f329f9a0de91bf61">0c60b6592bd95e10f329f9a0de91bf61</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 14:00:19</sys_created_on>
+        <sys_id>cc60b6592bd95e10f329f9a0de91bf61</sys_id>
+    </sys_attachment_doc>
 </record_update>

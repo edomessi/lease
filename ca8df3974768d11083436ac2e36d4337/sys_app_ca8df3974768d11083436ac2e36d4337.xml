@@ -13,9 +13,10 @@
         <license_category>none</license_category>
         <license_definition/>
         <license_model>none</license_model>
-        <logo/>
+        <logo>c4fd2a912bd95e10f329f9a0de91bf58</logo>
         <menu/>
         <name>Lease Management</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -31,9 +32,9 @@
         <sys_created_by>edoardomattia.messin@snc</sys_created_by>
         <sys_created_on>2022-07-13 09:13:34</sys_created_on>
         <sys_id>ca8df3974768d11083436ac2e36d4337</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>edoardomattia.messin@snc</sys_updated_by>
-        <sys_updated_on>2022-07-13 09:13:34</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 13:49:41</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
@@ -42,4 +43,44 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=ca8df3974768d11083436ac2e36d4337"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>car-rental-100.png</file_name>
+        <hash>07fe77a60cffcced2d367a5adaaae634658621c8962e26fd6614e9cbbf859694</hash>
+        <image_height>100</image_height>
+        <image_width>100</image_width>
+        <size_bytes>3259</size_bytes>
+        <size_compressed>3282</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 13:49:40</sys_created_on>
+        <sys_id>c4fd2a912bd95e10f329f9a0de91bf58</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-16 13:49:41</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>ca8df3974768d11083436ac2e36d4337</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="car-rental-100.png" sys_id="c4fd2a912bd95e10f329f9a0de91bf58">c4fd2a912bd95e10f329f9a0de91bf58</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 13:49:40</sys_created_on>
+        <sys_id>08fd2a912bd95e10f329f9a0de91bf58</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4364</length>
+        <position>1</position>
+        <sys_attachment display_value="car-rental-100.png" sys_id="c4fd2a912bd95e10f329f9a0de91bf58">c4fd2a912bd95e10f329f9a0de91bf58</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 13:49:40</sys_created_on>
+        <sys_id>88fd2a912bd95e10f329f9a0de91bf58</sys_id>
+    </sys_attachment_doc>
 </record_update>

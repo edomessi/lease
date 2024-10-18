@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Lease Management App Config">3d126ad1a1995e101c4000de669530f8</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Driver Record Page">1c2222152b995e10f329f9a0de91bf79</macroponent>
+        <macroponent_config/>
+        <name>Driver Record Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=x_snc_lease_mana_0_driver</screen_condition>
+        <screen_type display_value="Record">e5126ad140995e10b8fddfc891cab2ee</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 12:58:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e42222152b995e10f329f9a0de91bf7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Driver Record Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_ux_screen_e42222152b995e10f329f9a0de91bf7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 12:58:06</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=e42222152b995e10f329f9a0de91bf7f"/>
+</record_update>

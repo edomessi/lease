@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Workspace-Lease-Management-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 12:54:02</sys_created_on>
+        <sys_id>bc312e512b995e10f329f9a0de91bf20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Lease Management 0</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_ui_view_bc312e512b995e10f329f9a0de91bf20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 12:54:02</sys_updated_on>
+        <title>Workspace Lease Management 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

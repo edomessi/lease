@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app lease-management">f212ead12b995e10f329f9a0de91bfcb</applicability>
+        <list display_value="Open">5b126ed12b995e10f329f9a0de91bf4d</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 12:58:00</sys_created_on>
+        <sys_id>d3126ed12b995e10f329f9a0de91bf50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_d3126ed12b995e10f329f9a0de91bf50</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 12:58:00</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

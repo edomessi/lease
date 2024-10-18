@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Lease Management</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>lease-management Search Profile</label>
+        <name>x_snc_lease_mana_0_uxu_search_profile</name>
+        <publish_id>ce0adeba-c10a-4cb6-907b-d20f73588728</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 12:57:55</sys_created_on>
+        <sys_id>b5126ad100995e1065c7aeffeec4d5f9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>lease-management Search Profile</sys_name>
+        <sys_package display_value="Lease Management" source="x_snc_lease_mana_0">ca8df3974768d11083436ac2e36d4337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Management">ca8df3974768d11083436ac2e36d4337</sys_scope>
+        <sys_update_name>ais_search_profile_b5126ad100995e1065c7aeffeec4d5f9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-16 13:23:15</sys_updated_on>
+    </ais_search_profile>
+</record_update>
